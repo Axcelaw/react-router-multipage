@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Fireworks Night","image":"https://static.wixstatic.com/media/63861c_cdc72d42329643e5a7ab13242a8e61c9~mv2.png/v1/fit/w_2500,h_1330,al_c/63861c_cdc72d42329643e5a7ab13242a8e61c9~mv2.png","date":"2023-11-19","description":"Watch fireworks","id":"e68eb2a1-5b1b-4e54-aa6a-94aa1cef04aa"},{"title":"New Year's Eve","image":"https://www.meetings-incentives.com/wp-content/uploads/2020/09/gettyimages-1066947368.jpg","date":"2023-12-31","description":"Celebrate New Year's Eve","id":"c6a5a1de-48aa-4f90-b62f-ee1ee59491d4"},{"title":"New Year's Eve","image":"https://www.meetings-incentives.com/wp-content/uploads/2020/09/gettyimages-1066947368.jpg","date":"2023-12-31","description":"Celebrate New Year's Eve","id":"e385c5c9-a764-421f-8836-01d06054259b"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
